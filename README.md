@@ -8,7 +8,6 @@ Prototipo de pantalla de inicio de sesión (login) para Android, hecho en Java c
 - **Materia:** Interfaces Móviles
 - **Profesor:** Gustavo Moisés Romero González
 - **Institución:** TESOEM
-- **Evaluación:** 2da evaluación · Entrega: 17 de noviembre de 2026
 
 ## Descripción
 Pantalla de login con validación de campos. Se adapta al modo claro y oscuro, y cambia de colores según el fondo de pantalla del teléfono gracias a Material You.
